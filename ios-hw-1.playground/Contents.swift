@@ -124,6 +124,9 @@ age1 != 17
 age2 != 17
 age3 != 17
 
+// bonus
+// bestfriends
+age1 == age3 || firstName1 == firstName3 || country1 == country3 || area1 == area2
 
 
 
